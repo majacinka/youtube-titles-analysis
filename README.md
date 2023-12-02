@@ -27,37 +27,37 @@
 ### Data Analysis 
 
 #### What's the title length of popular videos
-![Alt text](1.png)
+![Alt text](img/1.png)
 
 #### How easily readable are popular videos (Flesch Reading Score)
-![Alt text](2.png)
+![Alt text](img/2.png)
 
 #### How does title sentiment affect popularity of the video
-![Alt text](3.png)
-
+![Alt text](img/3.png)
+ 
 #### How many question marks do popular videos have?
-![Alt text](4.png)
+![Alt text](img/4.png)
 
 #### Do popular videos have question marks?
-![Alt text](5.png)
+![Alt text](img/5.png)
 
 #### Do popular videos have digits?
-![Alt text](6.png)
+![Alt text](img/6.png)
 
 #### Do popular videos have dollar signs?
-![Alt text](7.png)
+![Alt text](img/7.png)
 
 #### Do popular videos have digits?
-![Alt text](8.png)
+![Alt text](img/8.png)
 
 #### Do popular videos contain more UpperCase Letter?
-![Alt text](9.png)
+![Alt text](img/9.png)
 
 #### What's the percentage of UpperCase Letters in each titles and how it affect video's popularity?
-![Alt text](10.png)
+![Alt text](img/10.png)
 
 #### The most common words in the titles
-![Alt text](11.png)
+![Alt text](img/11.png)
 
 #### Keywords that get highest views 
-![Alt text](12.png)
+![Alt text](img/12.png)
